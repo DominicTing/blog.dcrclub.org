@@ -4,7 +4,7 @@
 
 | 交易所 | 交易对1 | 交易对2 | 交易对3 | 交易对3 |
 | --- | --- | --- | --- | --- |
-| [Biance](https://www.binance.com/cn/) | DCR/BTC | DCR/BNB |  |  |
+| [Binance](https://www.binance.com/cn/) | DCR/BTC | DCR/BNB |  |  |
 | [Bittrex](https://bittrex.com/) | DCR/BTC | DCR/USDT |  |  |
 | [Huobi](https://www.hbg.com/zh-cn/) | DCR/BTC | DCR/ETH | DCR/USDT |  |
 | [Poloniex](https://poloniex.com/) | DCR/BTC |  |  |  |
