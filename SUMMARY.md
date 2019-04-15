@@ -17,6 +17,7 @@
     * [投票分票](chapter_02/Voting-DecredSplitTicket.md)
     * [链上共识变更流程​](chapter_02/consensus_change.md)
 * [项目月报](chapter_03/README.md)
+    * [Decred月报 - 2019 3月](chapter_03/201903_DecredJournalCN.md)
     * [Decred月报 - 2019 2月](chapter_03/201902_DecredJournalCN.md)
     * [Decred月报 - 2019 1月](chapter_03/201901_DecredJournalCN.md)
     * [Decred月报 - 2018 12月](chapter_03/201812_DecredJournalCN.md)
