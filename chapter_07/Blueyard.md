@@ -43,11 +43,8 @@ Decred（DCR）是基于以下核心特征的区块链和货币：
 与 Jake Yocom-Piatt，Jonathan Zeppettini 和其它社区合作后，我们在 5 月初开始建立一个重要的 DCR 仓位，并在几天前完成了初步建仓。我们这样做的初衷是成为 Decred 的长期积极支持者并积极参与网络治理。在活动初，我们很高兴地宣布，我们将于 7 月 18 日在柏林与一些核心 Decred 团队和贡献者举办见面会。我们会尽快公布更多细节，并希望能在那里见到你。
 
 
-翻译：DCR 中文社区 （Wenjuan）
-
-原文：https://medium.com/@BlueYard/decred-82b284b4a795
-
-注1：https://docs.decred.org/advanced/inflation/
-
+翻译：DCR 中文社区 （Wenjuan）<br/>
+原文：https://medium.com/@BlueYard/decred-82b284b4a795 <br/>
+注1：https://docs.decred.org/advanced/inflation/ <br/>
 注2：https://www.dcr66.com/threads/decred.9/
 

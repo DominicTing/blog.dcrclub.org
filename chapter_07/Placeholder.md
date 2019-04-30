@@ -75,7 +75,6 @@ Decred 的獨到之處，在於擁有一個完善的達成決策共識的流程�
 
 
 
-译者： @morphymore
-
+译者： @morphymore <br/>
 原文： https://medium.com/@morphymore/一篇-decred-的深度研究論文-翻譯-43bf1afc7127
 

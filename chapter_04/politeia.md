@@ -1,4 +1,4 @@
-# Decred 治理系统
+# Decred Politeia 提案系统
 
 ![Politea](img/Politeia/img1.jpg "Politea")
 

@@ -151,10 +151,7 @@
 译者注：
 Incentive Alignment 激励一致性是金融学的术语，见http://www.cbrc.gov.cn/chinese/files/2016/E682DC14425546E2A636F4605136ACB9.pdf
 
-Decred 中国社区
-
-翻译：画面
-
-原文链接：https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/
-
+Decred 中国社区 </br>
+翻译：画面 </br>
+原文链接：https://blog.decred.org/2018/06/05/A-New-Kind-of-DEX/ </br>
 译者 DCR 打赏地址：DsmZHhRnvLQaDQcSSRco7RA8AcDZH9SKWQw
