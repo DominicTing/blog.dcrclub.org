@@ -27,7 +27,7 @@
     * [Decred月报 - 2018 11月](chapter_03/201811_DecredJournalCN.md)
 * [去中心化治理](chapter_04/README.md)
     * [Decred治理领域走得最远的项目](chapter_04/dcr_best_governance.md)
-    * [Decred Politeia提案系统](chapter_04/politeia.md)
+    * [Decred Politeia链下治理系统](chapter_04/politeia.md)
     * [提案:Decred 承包商的管理体制](chapter_04/Proposals— DecredContractorClearanceProcess.md)
     * [在Politeia的公关提案：过程，发展及提案](chapter_04/PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
     * [从BTC分裂来看DCR抗硬分叉](chapter_04/dcr_fork.md)

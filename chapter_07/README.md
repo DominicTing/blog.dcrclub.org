@@ -4,7 +4,8 @@
 
 #### 去中心化治理
 
-[Decred治理领域走得最远的项目](../chapter_04/dcr_best_governance.md)
+[Decred治理领域走得最远的项目](../chapter_04/dcr_best_governance.md)<br/>
+[Decred Politeia链下治理系统](../chapter_04/politeia.md)
 
 #### PoS
 
