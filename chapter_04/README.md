@@ -22,3 +22,10 @@ Decred 的权益持有者，也就是持有有效票的人，已经在主网上�
 资源该如何分配的决策，对于一个自主自治的项目来说是非常重要的，因为软体的开发是确确实实需要成本与金钱的。
 
 10% 的区块奖励进入 Decred 的项目基金地址中，而 Decred 项目致力于将此资金的支出，透过全体利害关系持有者所共同控制的一个“去中心化的自治实体 (DAE)”来管理。这个项目基金目前持有超过 50 万枚的 DCR，总价值超过 4800 万美元 (2018/06/21 13:40 GMT+8)，而这些资金会由全体利害关系持有者透过 Politeia 来共同决定使用方式。
+
+
+ * [Decred治理领域走得最远的项目](dcr_best_governance.md)
+ * [Decred Politeia链下治理系统](politeia.md)
+ * [提案:Decred 承包商的管理体制](Proposals— DecredContractorClearanceProcess.md)
+ * [在Politeia的公关提案：过程，发展及提案](PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
+ * [从BTC分裂来看DCR抗硬分叉](dcr_fork.md)
