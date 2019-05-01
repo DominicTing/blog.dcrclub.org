@@ -1,4 +1,4 @@
-#Decred 中文社区文章
+#Decred 中文社区
 
 ### 关于我们 
 
@@ -32,5 +32,5 @@ DecredProject
 [Decred DCR 英文频道](https://t.me/Decred) （Telegram）<br/>
 [Decred DCR 中文频道](https://t.me/decred_cn) （Telegram）
 ### 我们社区管理
-  @changhugo @GuangGuang @wanbihou  <br/>
-  @Neil Nie @TogT4V @v998n<br/>
+  @changhugo @GuangGuang @Neil Nie <br/>
+  @TogT4V @v998n @wanbihou<br/>

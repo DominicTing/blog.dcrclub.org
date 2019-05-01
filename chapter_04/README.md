@@ -88,6 +88,6 @@ Politeia 提案投票系统的上线肯定会是件非常有趣的事。它并�
 更振奋人心的是，这整个发展过程将会是公开且透明的，任何有兴趣研究加密货币项目治理议题的人，都将能从头到尾的追踪并观察 Decred 的做法是否能成。我将会持续的追踪与撰写文章，并同时进行对于其他项目的观察与分析。
 
 
-译者： @morphymore </br>
-原文：https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f
+译者： @morphymore <br/>
+原文：https://medium.com/decred/governance-of-the-decred-project-subsidy-through-politeia-e6393b2bab1f<br/>
 同步翻译于：https://medium.com/@morphymore/decred-透過-politeia-的項目基金治理-翻譯-8b65d58d22e4
