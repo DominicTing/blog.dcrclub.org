@@ -7,13 +7,13 @@
     * [Decred信息助手参数说明](chapter_00/decredtelegrambot_detail.md)
     * [Decred创始人](chapter_00/jake_intro.md)
 <details>
-    <summary>* [钱包与交易](chapter_01/README.md)</summary>
+    <summary><a href="chapter_01/README.md">钱包与交易</a></summary>
 
-    * [钱包介绍]()
-        * [桌面钱包](chapter_01/pc_wallet.md)
-        * [手机钱包](chapter_01/mobile_wallet.md)
-        * [简单支付验证（SPV）](chapter_01/dcrdocs_Wallets_SPV_CN.md)
-    * [交易平台](chapter_01/exchange_list.md)
+    钱包介绍
+        <a href="chapter_01/pc_wallet.md">桌面钱包</a>
+        <a href="chapter_01/mobile_wallet.md">手机钱包</a>
+        <a href="chapter_01/dcrdocs_Wallets_SPV_CN.md">简单支付验证（SPV）</a>
+    <a href="chapter_01/exchange_list.md">交易平台</a>
 </details>
 
 <details>
