@@ -41,6 +41,7 @@
 * [社区文章](chapter_07/README.md)
     * [Decred 攻击成本最高的项目](chapter_07/double_spend.md)
     * [Decred的价值存储(SoV)](chapter_07/SoV_of_DCR.md)
+    * [Decred Staking创新(](chapter_07/dcr_pos_advantage.md)
     * [Decred完美满足持币者需求](chapter_07/fullfill_holder_demand.md)
     * [Decred如何迭代比特币](chapter_07/how-Decred-iterates-upon-Bitcoin.md)
     * [创投Blueyard的投资逻辑](chapter_07/Blueyard.md)
