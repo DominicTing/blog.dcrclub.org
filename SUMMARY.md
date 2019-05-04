@@ -6,6 +6,7 @@
     * [Decred 168w的预挖分配](chapter_00/decred_premine_distribution.md)
     * [Decred信息助手参数说明](chapter_00/decredtelegrambot_detail.md)
     * [Decred创始人](chapter_00/jake_intro.md)
+    * [比特币与Decred 、以太坊的恩怨](chapter_00/btc_dcr_history.md)
 * [钱包与交易](chapter_01/README.md)
     * [钱包介绍]()
         * [桌面钱包](chapter_01/pc_wallet.md)
@@ -16,7 +17,7 @@
     * [挖矿POW](chapter_02/POW_with_pool.md)
     * [投票POS](chapter_02/how_to_proof_of_stake.md)
     * [投票分票](chapter_02/Voting-DecredSplitTicket.md)
-    * [链上共识变更流程​](chapter_02/consensus_change.md)
+    * [Decred Staking创新，为什么比其他PoS项目好](chapter_02/dcr_pos_advantage.md)
     * [图解选票的生命周期](chapter_02/vote_life_cycle.md)
     * [参与Decred PoS的五大理由](chapter_02/why_join_pos.md)
 * [项目月报](chapter_03/README.md)
@@ -41,7 +42,6 @@
 * [社区文章](chapter_07/README.md)
     * [Decred 攻击成本最高的项目](chapter_07/double_spend.md)
     * [Decred的价值存储(SoV)](chapter_07/SoV_of_DCR.md)
-    * [Decred Staking创新(](chapter_07/dcr_pos_advantage.md)
     * [Decred完美满足持币者需求](chapter_07/fullfill_holder_demand.md)
     * [Decred如何迭代比特币](chapter_07/how-Decred-iterates-upon-Bitcoin.md)
     * [创投Blueyard的投资逻辑](chapter_07/Blueyard.md)
@@ -49,6 +49,7 @@
     * [再评：标准共识对Decred 测评](chapter_07/analysis-Standard_Consensus.md)
     * [DCR是如何解决BTC存在的问题](chapter_07/dcr_solving_btc_issues.md)
     * [DCR的链上治理了解一下](chapter_07/Learn_about_decred_governance.md)
+    * [链上共识变更流程​](chapter_07/consensus_change.md)
     
     
 

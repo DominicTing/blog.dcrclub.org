@@ -2,6 +2,11 @@
 
 ![decred](img/decredcover.jpg)
 
+#### 简介
+
+[比特币与Decred 、以太坊的恩怨](../chapter_00/btc_dcr_history.md)
+[Decred创始人](../chapter_00/jake_intro.md)
+
 #### 去中心化治理
 
 [Decred治理领域走得最远的项目](../chapter_04/dcr_best_governance.md)<br/>
@@ -9,6 +14,7 @@
 
 #### PoS
 
+[Decred Staking创新，为什么比其他PoS项目好](../chapter_02/dcr_pos_advantage.md)
 [参与Decred PoS的五大理由](../chapter_02/why_join_pos.md)
 
 #### 抗硬分叉
@@ -38,6 +44,3 @@
 [Decred的价值存储(SoV)](../chapter_07/SoV_of_DCR.md)<br/>
 [Decred完美满足持币者需求](../chapter_07/fullfill_holder_demand.md)
 
-#### 创始人简介
-
-[Decred创始人](../chapter_00/jake_intro.md)

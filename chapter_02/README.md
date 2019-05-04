@@ -11,5 +11,6 @@ Decred 是一个工作量证明（PoW）和权益证明（PoS）混合共识机�
 * [挖矿POW](POW_with_pool.md)
 * [投票POS](how_to_proof_of_stake.md)
 * [投票分票](Voting-DecredSplitTicket.md)
-* [链上共识变更流程​](consensus_change.md)
+* [Decred Staking创新，为什么比其他PoS项目好](dcr_pos_advantage.md)
+* [图解选票的生命周期](vote_life_cycle.md)
 * [参与Decred PoS的五大理由](why_join_pos.md)
