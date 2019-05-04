@@ -2,8 +2,7 @@
 
 ![stakey](img/btc_dcr_history/header.png)
 
-*作者: Insette（Counterparty，Decred 投资者），写于2018年* 
-
+*作者: Insette（Counterparty，Decred 投资者），写于2018年* <br/><br/>
 
 很少人详细了解比特币的权力斗争，导致了Decred现阶段被低估。
 
@@ -73,6 +72,6 @@ Decred通过建立治理系统，得以避免像Blockstream那样从传统金融
 
 
 翻译: DCR中文社区 Hugo <br/>
-Decred微信：DecredProject <br/>
+Decred微信公众号：Decred中文社区
 [Decred中文社区](https://blog.dcrclub.org) <br/>
 [原文](https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/)

@@ -6,7 +6,7 @@ Decred的发起团队是开发比特币GO语言版本的Btcsuite / btcd 团队�
 
 ### Decred的起源
 
-* 2013年，Decred的发起团队 *(原Conformal Systems LLC，现名 Company 0 )*  以 Go实作了一个Bitcoin Core版本： btcsuite。尽管这具有高度的技术价值，比特币核心开发小组非但没有对此举与此释出善意，甚至将其拒之门外。同时，在Bitcointalk论坛上，一位用户名为tacotime的匿名用户，开始了一个名为 memcoin2的项目开发。这是最早提出混合共识机制的加密货币项目之一，**旨在创建一个「透过参与式投票，让货币资源的掌控以民主的形式交至用户手中」的货币系统。** 2014年初，tacotime和_ingsoc(另一名Bitcointalk论坛的用户)向Jake (Conformal Systems创始人)联络，讨论memcoin2项目以及关于“decentralizedcredits”的想法。tacotime在提出了这样一个作为启发Decred日后发展的种子后，随后于2014年4月与一些人创建了Monero项目。而Conformal Systems在接受了这样的启发后，便将开发重心从btcsuite转移至一个新的项目--Decred。
+* 2013年，Decred的发起团队 *(原Conformal Systems LLC，现名 Company 0 )*  以 Go实作了一个Bitcoin Core版本： btcsuite。尽管这具有高度的技术价值，比特币核心开发小组非但没有对此举与此释出善意，甚至将其拒之门外。同时，在Bitcointalk论坛上，一位用户名为tacotime的匿名用户，开始了一个名为 memcoin2的项目开发。这是最早提出混合共识机制的加密货币项目之一，**旨在创建一个「透过参与式投票，让货币资源的掌控以民主的形式交至用户手中」的货币系统。** 2014年初，tacotime和_ingsoc(另一名Bitcointalk论坛的用户)向Jake (Conformal Systems创始人)联络，讨论memcoin2项目以及关于“decentralizedcredits”的想法。tacotime在提出了这样一个作为启发Decred日后发展的种子后，随后于2014年4月与一些人创建了Monero项目。而Conformal Systems在接受了这样的启发后，便将开发重心从btcsuite转移至一个新的项目-Decred。
 * 开发团队花费了约41.5万美元，并经过大约2年时间的开发，Decred于2016年2月份正式上线主网。更详细的DCR创立历史可以到[这里](../chapter_00/btc_dcr_history.md)了解。
 
 Decred是工作证明(proof-of-work)+权益证明(proof-of-stake)的混合共识机制，主要基于Adam Mackenzie (门罗币前开发人员）编写的MC2白皮书, 其中部分参考Iddo Bentov、Charlie Lee（莱特币创始人）、Alex Mizrahi 和 Meni Rosenfeld共同撰写的活动证明Proof of Activity白皮书。
@@ -41,7 +41,7 @@ Decred每个区块产生时，随机从全网票池中选出5张选票进行链�
  
 Decred把锁定一些DCR来PoS，称为购票。以2019年5月1号的票价和区块奖励计算，Decred staking 能获得年化11%收入。
  
-Decred PoS选票的具体生命周期如下：
+**Decred PoS选票的具体生命周期如下：** 
 
 1. 您使用[Decrediton GUI钱包](https://decred.org/zh/downloads/)或dcrwallet[命令行钱包](https://docs.decred.org/wallets/cli/dcrwallet-tickets/)购买选票。购买每张选票的总费用应为：票价（Ticket Price） + 选票手续费（Ticket Fee，这个费用实际是POW矿工打包选票的矿工手续费）。
 2. 你的选票进入了`内存池`，这时您的选票等待被PoW矿工打包。每个区块，最多只有20张新选票被打包。
@@ -138,10 +138,9 @@ Decred的PoS系统里，由于PoS系统里购票资金在不断增加，票价�
 | 2019-4-1  | 1.094dcr           | 118.563dcr       | 9683.646dcr | 81张  |
 | 2019-5-1  | 1.083dcr           | 118.965dcr       | 9771.369dcr | 82张  |
 
-#### 相关PoS链接：
+#### PoS相关链接：
 * [如何用Decrediton GUI桌面钱包购票投票](https://www.chainnode.com/post/282187)
 * [如何用CLI命令行钱包购票投票](https://docs.decred.org/wallets/cli/dcrwallet-tickets/)
-* [投票PoS](how_to_proof_of_stake.md)
 * [图解选票的生命周期](vote_life_cycle.md)
 * [参与Decred PoS的五大理由](why_join_pos.md)
 
