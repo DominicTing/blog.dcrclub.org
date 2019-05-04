@@ -2,7 +2,8 @@
 
 ![stakey](img/btc_dcr_history/header.png)
 
-作者: Insette（Counterparty，Decred 投资者），写于2018年
+*作者: Insette（Counterparty，Decred 投资者），写于2018年* 
+
 
 很少人详细了解比特币的权力斗争，导致了Decred现阶段被低估。
 
@@ -37,7 +38,7 @@
 
 这都是几十亿美金的市场。很多开发人员相信这就是未来，包括BC开发团队。
 
-抵制Counterparty
+### 抵制Counterparty
 
 这时候是2014年1月，Counterparty推出了我认为是第一个在比特币上实现智能合约的共识系统。当时BC公开批评Counterparty，但有趣的是，公开指责Counterparty的BC开发团队在大众并不知情的情况下创建了Blockstream公司，并持有股份，推出了智能合约侧链的秘密计划。
 
@@ -69,7 +70,9 @@ Decred通过建立治理系统，得以避免像Blockstream那样从传统金融
 
 我深信区块链项目应为去中心化，由投资者共同治理，而不是由存在严重利益冲突的公司控制，我打算在遥远的将来继续参与Decred。
 
+
+
 翻译: DCR中文社区 Hugo <br/>
-[Decred中文社区](https://blog.dcrclub.org) <br/>
 Decred微信：DecredProject <br/>
+[Decred中文社区](https://blog.dcrclub.org) <br/>
 [原文](https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/)

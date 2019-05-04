@@ -4,7 +4,7 @@
 
 #### 简介
 
-[比特币与Decred 、以太坊的恩怨](../chapter_00/btc_dcr_history.md)
+[比特币与Decred 、以太坊的恩怨](../chapter_00/btc_dcr_history.md)<br/>
 [Decred创始人](../chapter_00/jake_intro.md)
 
 #### 去中心化治理
@@ -14,7 +14,7 @@
 
 #### PoS
 
-[Decred Staking创新，为什么比其他PoS项目好](../chapter_02/dcr_pos_advantage.md)
+[Decred Staking创新，为什么比其他PoS项目好](../chapter_02/dcr_pos_advantage.md)<br/>
 [参与Decred PoS的五大理由](../chapter_02/why_join_pos.md)
 
 #### 抗硬分叉
