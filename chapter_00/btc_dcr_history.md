@@ -72,6 +72,6 @@ Decred通过建立治理系统，得以避免像Blockstream那样从传统金融
 
 
 翻译: DCR中文社区 Hugo <br/>
-Decred微信公众号：Decred中文社区
+Decred微信公众号：Decred中文社区 <br/>
 [Decred中文社区](https://blog.dcrclub.org) <br/>
 [原文](https://www.reddit.com/r/decred/comments/6wxueo/your_best_pitch_for_decred/)
