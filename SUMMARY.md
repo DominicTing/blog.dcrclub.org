@@ -6,6 +6,7 @@
     * [Decred 168w的预挖分配](chapter_00/decred_premine_distribution.md)
     * [Decred信息助手参数说明](chapter_00/decredtelegrambot_detail.md)
     * [Decred创始人](chapter_00/jake_intro.md)
+    * [Decred与比特币 、以太坊的恩怨](chapter_00/btc_dcr_history.md)
 * [钱包与交易](chapter_01/README.md)
     * [钱包介绍]()
         * [桌面钱包](chapter_01/pc_wallet.md)
@@ -13,10 +14,9 @@
         * [简单支付验证（SPV）](chapter_01/dcrdocs_Wallets_SPV_CN.md)
     * [交易平台](chapter_01/exchange_list.md)
 * [PoW+PoS混合机制](chapter_02/README.md)
-    * [挖矿POW](chapter_02/POW_with_pool.md)
-    * [投票POS](chapter_02/how_to_proof_of_stake.md)
+    * [挖矿PoW](chapter_02/POW_with_pool.md)
+    * [投票PoS，为什么比其他PoS项目好](chapter_02/dcr_pos_advantage.md)
     * [投票分票](chapter_02/Voting-DecredSplitTicket.md)
-    * [链上共识变更流程​](chapter_02/consensus_change.md)
     * [图解选票的生命周期](chapter_02/vote_life_cycle.md)
     * [参与Decred PoS的五大理由](chapter_02/why_join_pos.md)
 * [项目月报](chapter_03/README.md)
@@ -48,6 +48,7 @@
     * [再评：标准共识对Decred 测评](chapter_07/analysis-Standard_Consensus.md)
     * [DCR是如何解决BTC存在的问题](chapter_07/dcr_solving_btc_issues.md)
     * [DCR的链上治理了解一下](chapter_07/Learn_about_decred_governance.md)
+    * [链上共识变更流程​](chapter_07/consensus_change.md)
     
     
 
