@@ -9,7 +9,7 @@
 
 #### 去中心化治理
 
-[Decred治理领域走得最远的项目](../chapter_04/dcr_best_governance.md)<br/>
+[Decred 治理领域走得最远的项目](../chapter_04/dcr_best_governance.md)<br/>
 [Decred Politeia链下治理系统](../chapter_04/politeia.md)
 
 #### PoS
@@ -35,9 +35,9 @@
 
 #### 抗双花攻击
 
-[Decred 攻击成本最高的项目](../chapter_07/double_spend.md)
+[Decred 同等情况下攻击成本最高的项目](../chapter_07/double_spend.md)
 
-#### 投资逻辑
+#### 价值投资
 
 [创投Blueyard的投资逻辑](../chapter_07/Blueyard.md)<br/>
 [创投Placeholder的投资逻辑](../chapter_07/Placeholder.md)<br/>
