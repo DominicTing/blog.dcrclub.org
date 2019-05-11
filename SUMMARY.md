@@ -20,6 +20,7 @@
     * [图解选票的生命周期](chapter_02/vote_life_cycle.md)
     * [参与Decred PoS的五大理由](chapter_02/why_join_pos.md)
 * [项目月报](chapter_03/README.md)
+    * [Decred月报 - 2019 4月](chapter_03/201904_DecredJournalCN.md)
     * [Decred月报 - 2019 3月](chapter_03/201903_DecredJournalCN.md)
     * [Decred月报 - 2019 2月](chapter_03/201902_DecredJournalCN.md)
     * [Decred月报 - 2019 1月](chapter_03/201901_DecredJournalCN.md)
