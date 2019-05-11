@@ -38,6 +38,7 @@
     * [风靡世界的原子交换到底是什么](chapter_05/atomic_swap_example.md)
     * [Decred去中心化交易所 DEX](chapter_05/DEX.md)
     * [Decred闪电网络的革命](chapter_05/lightening_network.md)
+    * [关于Decred去中心化组织（DAE）的未来设想](chapter_05/dcr_DAE.md)
 * [第三方测评](chapter_06/README.md)
 * [社区文章](chapter_07/README.md)
     * [Decred 攻击成本最高的项目](chapter_07/double_spend.md)
