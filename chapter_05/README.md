@@ -8,3 +8,4 @@
 3. [风靡世界的原子交换到底是什么](atomic_swap_example.md)
 4. [Decred去中心化交易所 DEX](DEX.md)
 5. [Decred闪电网络的革命](lightening_network.md)
+6. [关于Decred去中心化组织（DAE）的未来设想](dcr_DAE.md)

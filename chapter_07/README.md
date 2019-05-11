@@ -44,3 +44,6 @@
 [Decred的价值存储(SoV)](../chapter_07/SoV_of_DCR.md)<br/>
 [Decred完美满足持币者需求](../chapter_07/fullfill_holder_demand.md)
 
+#### 去中心化组织 (DAO/DAE)
+
+[关于Decred去中心化组织（DAE）的未来设想](../chapter_05/dcr_DAE.md)
