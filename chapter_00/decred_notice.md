@@ -5,6 +5,7 @@
 
 由于[DCP0004](https://github.com/decred/dcps/blob/master/dcp-0004/dcp-0004.mediawiki)共识激活，如果你在区块高度为342913之后没有及时升级Decrediton v1.4.0，升级后会出现区块同步卡在342913高度，如下图：
 ![abstract art](img/decred_notice/stuck_at_block_342913.png)
+
 解决方法如下：
 1. 关闭Decrediton钱包，删除旧的区块数据.
 Windows用户默认路径: `C:\Users\<user>\AppData\Local\Dcrd\data\mainnet`
