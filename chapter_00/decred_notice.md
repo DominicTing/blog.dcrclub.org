@@ -8,10 +8,13 @@
 
 解决方法如下：
 1. 关闭Decrediton钱包，删除旧的区块数据.
-Windows用户默认路径: `C:\Users\<user>\AppData\Local\Dcrd\data\mainnet`
+
+    Windows用户默认路径: `C:\Users\<user>\AppData\Local\Dcrd\data\mainnet`
 （如果看不到AppData目录请打开Windows的显示隐藏文件和文件夹功能）
-Mac用户默认路径：`/Users/<user>/Library/Application Support/Dcrd/data/mainnet`
-删除此路径下的**blocks_ffldb**目录
+
+    Mac用户默认路径：`/Users/<user>/Library/Application Support/Dcrd/data/mainnet`
+
+    删除此路径下的**blocks_ffldb**目录
 
 2. 打开Decrediton钱包重新同步区块数据即可。
 
