@@ -29,3 +29,4 @@ Decred 的权益持有者，也就是持有有效票的人，已经在主网上�
  * [提案:Decred 承包商的管理体制](Proposals— DecredContractorClearanceProcess.md)
  * [在Politeia的公关提案：过程，发展及提案](PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
  * [从BTC分裂来看DCR抗硬分叉](dcr_fork.md)
+ * [提案:RFP: Decred 去中心化交易设施(DEX)](RFP_Decred_Decentralized_Exchange_Infrastructure_CN.md)
