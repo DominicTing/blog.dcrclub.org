@@ -1,7 +1,7 @@
 # Summary
 * [最新活动](README.md)
     * [关于我们](aboutme.md)
-    * [【Decred 重要通知】](chapter_00/decred_notice.md)
+    * [Decred 重要通知](chapter_00/decred_notice.md)
     * [指引-如何加入Matrix上的中文聊天室](chapter_00/decred_matrixguide.md)
     * [如何参与Decred社区](chapter_00/How_to_Get_Hired_as_a_Decred_Contractor_CN.md)
     * [Decred 货币供应说明](chapter_00/decred_supply.md)
