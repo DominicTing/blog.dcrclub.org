@@ -33,6 +33,7 @@
     * [提案:Decred 承包商的管理体制](chapter_04/Proposals— DecredContractorClearanceProcess.md)
     * [在Politeia的公关提案：过程，发展及提案](chapter_04/PR_in_Politeia_Process_Progress_and_Pitching_In_CN.md)
     * [从BTC分裂来看DCR抗硬分叉](chapter_04/dcr_fork.md)
+    * [提案:RFP: Decred 去中心化交易设施(DEX)](RFP_Decred_Decentralized_Exchange_Infrastructure_CN.md)
 * [生态应用](chapter_05/README.md)
     * [Dcrtime使用及原理](chapter_05/Dcrtime-application.md)
     * [Decred链上原子交换](chapter_05/atomic_swap.md)
