@@ -8,8 +8,9 @@ IOS testflight通道：<br/>
 [Test-Net](https://testflight.apple.com/join/7KL4VnB2) | [Main-Net](https://testflight.apple.com/join/ACIyjT7M)<br/>
 [测试币获取](https://faucet.decred.org/)
 
-注：IOS目前未正式发布仅供测试体验，如有财产损失概不负责。<br/>
-问题反馈: https://github.com/raedahgroup/dcrios/issues
+问题反馈: https://github.com/raedahgroup/dcrios/issues<br/>
+注：IOS目前未正式发布仅供测试体验，如有财产损失概不负责。
+
 ##第三方钱包
 ####目前列出当前https://www.decred.org/downloads/ 列出的第三方移动端钱包
 
