@@ -1,6 +1,17 @@
 #手机钱包介绍
 
-####目前列出当前https://www.decred.org/downloads/ 列出的移动端钱包
+##官方钱包
+####目前官方钱包Android客户端已发布，IOS平台已经发布RC1版本（testflight），目前版本的官方钱包均不支持投票功能。
+Android 下载地址：[Google Play商店](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet&hl=zh_CN)
+
+IOS testflight通道：
+[Test-Net](https://testflight.apple.com/join/7KL4VnB2)
+[Test- Net Coins](https://faucet.decred.org/)
+[Main-Net](https://testflight.apple.com/join/ACIyjT7M)
+注：IOS目前未正式发布仅供测试体验，如有财产损失概不负责。
+问题反馈: https://github.com/raedahgroup/dcrios/issues
+##第三方钱包
+####目前列出当前https://www.decred.org/downloads/ 列出的第三方移动端钱包
 
 | App名称 |  支持环境 | 私钥控制 | 支持投票 | 支持多币种 | 特色 |
 | --- | --- | --- | --- | --- | --- | --- |
