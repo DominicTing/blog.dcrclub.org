@@ -1,14 +1,12 @@
 # Summary
 * [最新活动](README.md)
-    * [关于我们](aboutme.md)
-    * [Decred 重要通知](chapter_00/decred_notice.md)
-    * [指引-如何加入Matrix上的中文聊天室](chapter_00/decred_matrixguide.md)
+    * [关于我们](chapter_00/aboutme.md)
+    * [活动日程](chapter_00/activity.md)
+    * [重要通知](chapter_00/decred_notice.md)
     * [如何参与Decred社区](chapter_00/How_to_Get_Hired_as_a_Decred_Contractor_CN.md)
     * [Decred 货币供应说明](chapter_00/decred_supply.md)
-    * [Decred 168w的预挖分配](chapter_00/decred_premine_distribution.md)
-    * [Decred 信息助手参数说明](chapter_00/decredtelegrambot_detail.md)
-    * [Decred 创始人](chapter_00/jake_intro.md)
-    * [Decred 与比特币 、以太坊的恩怨](chapter_00/btc_dcr_history.md)
+    * [Decred 预挖分配说明](chapter_00/decred_premine_distribution.md)
+    * [Decred 信息助手说明](chapter_00/decredtelegrambot_detail.md)
 * [钱包与交易](chapter_01/README.md)
     * [钱包介绍]()
         * [桌面钱包](chapter_01/pc_wallet.md)
@@ -55,7 +53,8 @@
     * [DCR是如何解决BTC存在的问题](chapter_07/dcr_solving_btc_issues.md)
     * [DCR的链上治理了解一下](chapter_07/Learn_about_decred_governance.md)
     * [链上共识变更流程​](chapter_07/consensus_change.md)
-    
-    
+    * [Decred 创始人](chapter_07/jake_intro.md)
+    * [Decred 与比特币 、以太坊的恩怨](chapter_07/btc_dcr_history.md)
+
 
     
