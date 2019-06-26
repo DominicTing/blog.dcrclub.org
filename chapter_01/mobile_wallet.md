@@ -1,7 +1,7 @@
 #手机钱包介绍
 
 ##官方钱包
-####目前官方钱包Android客户端已发布，IOS平台已经发布RC1版本（testflight），目前版本的官方钱包均不支持投票功能。
+####目前官方钱包Android客户端已发布，IOS平台已经发布RC1版本（testflight），目前移动端官方钱包均不支持投票功能。
 Android 下载地址：[Google Play商店](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet&hl=zh_CN)
 
 IOS testflight通道：<br/>
