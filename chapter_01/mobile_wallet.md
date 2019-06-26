@@ -4,10 +4,10 @@
 ####目前官方钱包Android客户端已发布，IOS平台已经发布RC1版本（testflight），目前版本的官方钱包均不支持投票功能。
 Android 下载地址：[Google Play商店](https://play.google.com/store/apps/details?id=com.decred.dcrandroid.mainnet&hl=zh_CN)
 
-IOS testflight通道：
-[Test-Net](https://testflight.apple.com/join/7KL4VnB2)<br/>
-[Test- Net Coins](https://faucet.decred.org/)<br/>
-[Main-Net](https://testflight.apple.com/join/ACIyjT7M)<br/>
+IOS testflight通道：<br/>
+[Test-Net](https://testflight.apple.com/join/7KL4VnB2)|[Main-Net](https://testflight.apple.com/join/ACIyjT7M)<br/>
+[测试币获取](https://faucet.decred.org/)|
+
 注：IOS目前未正式发布仅供测试体验，如有财产损失概不负责。<br/>
 问题反馈: https://github.com/raedahgroup/dcrios/issues
 ##第三方钱包
