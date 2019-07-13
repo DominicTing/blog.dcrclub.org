@@ -14,7 +14,7 @@ Decred采用PoW/PoS混合共识机制，是真正去中心化，且完全自治�
 [DecredProject中文社区](https://weibo.com/DecredProject)
 
 ### 我们的Telegram群组
-[Decred DCR 中文频道](https://t.me/decred_cn) 
+[Decred DCR 中文频道](https://t.me/decred_cn)
 
 ### 我们的微信群组
 [Decred中文社区](https://mp.weixin.qq.com/s/6FY8MR7rUXzou2Cy1-oEfQ)
