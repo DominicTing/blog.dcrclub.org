@@ -7,6 +7,7 @@
 * [Decred(DCR)月报 - 2019 2月份](201902_DecredJournalCN.md)<br/>
 * [Decred(DCR)月报 - 2019 3月份](201903_DecredJournalCN.md)<br/>
 * [Decred(DCR)月报 - 2019 4月份](201904_DecredJournalCN.md)<br/>
+* [Decred(DCR)月报 - 2019 6月份](201906_DecredJournalCN.md)<br/>
 
 
 英文完整月报decred_journals请参考：https://medium.com/decred/journals/home
